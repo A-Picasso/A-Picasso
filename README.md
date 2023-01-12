@@ -5,7 +5,7 @@
 <hr>
 <br><br>
 
-# $\textcolor{yellow}{Skill\ set}$
+# $\text{\color{yellow}{Skill\ set}}$
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -21,12 +21,81 @@
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>  
-  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
 </div>
 <br><br>
 
-# $\textcolor{yellow}{Connect\ with\ me}$
+# $\text{\color{yellow}{Projects}}$
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Encrypter-ChallengeOracleONE</h3>
+      <br />
+      <a target="_blank" href="https://a-picasso.github.io/Encrypter-ChallengeOracleONE/">
+        <img
+          src="https://user-images.githubusercontent.com/95196431/212027763-9aa27b42-d72f-41e3-a9c8-914df4e2e671.png"
+          width="100%"
+          alt="Encrypter-ChallengeOracleONE"
+        />
+      </a>
+      <br />
+      <p align="center">
+        <a
+          href="https://github.com/A-Picasso/Encrypter-ChallengeOracleONE"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/static/v1?label=&message=REPO&color=5F00BA&style=plastic&logo=github&logo-color=white"
+          />
+        </a>
+        <a href="https://a-picasso.github.io/Encrypter-ChallengeOracleONE/" target="_blank">
+          <img
+            src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=5F00BA&style=plastic&logo=wordpress&logo-color=white"
+          />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML and CSS</strong> - First challenge on programming logic, made for the Oracle Next Education + Alura bootcamp.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">JohnBlog</h3>
+      <br />
+      <a target="_blank" href="https://a-picasso.github.io/JohnBlog/">
+        <img
+          src="https://user-images.githubusercontent.com/95196431/212010427-37892251-12af-405d-a653-942d4b39323b.png"
+          width="100%"
+          alt="JohnBlog"
+        />
+      </a>
+      <br />
+      <p align="center">
+        <a
+          href="https://github.com/A-Picasso/JohnBlog"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/static/v1?label=&message=REPO&color=5F00BA&style=plastic&logo=github&logo-color=white"
+          />
+        </a>
+        <a
+          href="https://a-picasso.github.io/JohnBlog/"
+          target="_blank"
+        >
+          <img
+            src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=5F00BA&style=plastic&logo=wordpress&logo-color=white"
+          />
+        </a>
+      </p>
+      <p>
+        <strong>JavaScript, HTML, CSS and Github Pages</strong> - This is a practice with a landing page.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+# $\text{\color{yellow}{Connect\ with\ me}}$
 <div align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jose-alberto-picasso-mtz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
