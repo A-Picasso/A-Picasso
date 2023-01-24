@@ -1,11 +1,11 @@
 <hr>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=80&pause=1000&color=F3E600&center=true&vCenter=true&width=950&height=150&lines=Hello+World;I+am+Jose+Alberto+Picasso+Martinez;Java+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=80&pause=1000&color=00FF41&center=true&vCenter=true&width=950&height=150&lines=Hello+World;I+am+Jose+Alberto+Picasso+Martinez;Java+Developer" alt="Typing SVG" /></a>
 </p>
 <hr>
 <br><br>
 
-# $\text{\color{yellow}{Skill\ set}}$
+# $\text{\color{lime}{Skill\ set}}$
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -25,7 +25,7 @@
 </div>
 <br><br>
 
-# $\text{\color{yellow}{Projects}}$
+# $\text{\color{lime}{Projects}}$
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -95,7 +95,7 @@
 </table>
 
 
-# $\text{\color{yellow}{Connect\ with\ me}}$
+# $\text{\color{lime}{Connect\ with\ me}}$
 <div align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jose-alberto-picasso-mtz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
