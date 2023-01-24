@@ -1,9 +1,11 @@
 <hr>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=950&height=150&lines=Hello+World;I+am+Jose+Alberto+Picasso+Martinez;Java+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=56&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=150&lines=Hello+World;I'm+Jos%C3%A9+Alberto+Picasso+Mart%C3%ADnez;Java+Developer" alt="Typing SVG" />
+  </a>
 </p>
 <hr>
-<br><br>
+<br>
 
 # $\text{\color{red}{Skill\ set}}$
 <div align="center">
