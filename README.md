@@ -7,6 +7,32 @@
 <hr>
 <br>
 
+# $\text{\color{red}{About\ me}}$
+```java
+public class AboutMe {
+
+    String name = "José Alberto Picasso Martínez";
+  
+    String located_in = "México";
+  
+    String[] education = { 
+    "Universidad Virtual del Estado de Guanajuato (UVEG)", 
+    "ONE – Oracle Next Education", 
+    "Google Cloud Skills Boost" };
+  
+    String[] fields_of_interest = {
+    "Backend development",
+    "DevOps",
+    "Mobile development" };
+    
+    String currently_learning = "Docker, Kubernetes and Kotlin";
+    
+    String hobbies = "Cinema, Photography and Gaming";
+    
+}
+```
+<br>
+
 # $\text{\color{red}{Skill\ set}}$
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -57,40 +83,32 @@
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML and CSS</strong> - First challenge on programming logic, made for the Oracle Next Education + Alura bootcamp.
+        <strong>JavaScript, HTML and CSS</strong> - First programming logic challenge, completed for the Oracle Next Education + Alura bootcamp.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">JohnBlog</h3>
+      <h3 align="center">ConversorJavaChallengeONE</h3>
       <br />
       <a target="_blank" href="https://a-picasso.github.io/JohnBlog/">
         <img
-          src="https://user-images.githubusercontent.com/95196431/212010427-37892251-12af-405d-a653-942d4b39323b.png"
+          src="https://user-images.githubusercontent.com/95196431/229989068-b12ee5b2-2e44-4670-bd1a-d7d2c717af04.gif"
           width="100%"
-          alt="JohnBlog"
+          alt="Conversor Java"
         />
       </a>
       <br />
       <p align="center">
         <a
-          href="https://github.com/A-Picasso/JohnBlog"
+          href="https://github.com/A-Picasso/ConversorJavaChallengeONE"
           target="_blank"
         >
           <img
             src="https://img.shields.io/static/v1?label=&message=REPO&color=C42021&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a
-          href="https://a-picasso.github.io/JohnBlog/"
-          target="_blank"
-        >
-          <img
-            src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=5F00BA&style=plastic&logo=wordpress&logo-color=white"
-          />
-        </a>
       </p>
       <p>
-        <strong>JavaScript, HTML, CSS and Github Pages</strong> - This is a practice with a landing page.
+        <strong>Java, Swing library and Maven</strong> - This project is a currency and temperature converter developed in the JAVA programming language with Eclipse IDE and JAVA 8 version.
       </p>
     </td>
   </tr>
