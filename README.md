@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-# $\text{\color{red}{About\ me}}$
+# 👨‍💻 __About me__
 ```java
 public class AboutMe {
 
@@ -25,15 +25,15 @@ public class AboutMe {
     "DevOps",
     "Mobile development" };
     
-    String currently_learning = "Docker, Kubernetes and Kotlin";
+    String currently_learning = "Docker, Kubernetes, Kotlin and Angular";
     
-    String hobbies = "Cinema, Photography and Gaming";
+    String hobbies = "Watching movies, reading science fiction books and playing strategy video games";
     
 }
 ```
 <br>
 
-# $\text{\color{red}{Skill\ set}}$
+# 💻 __Skill set__
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -52,8 +52,9 @@ public class AboutMe {
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
 </div>
 <br>
+<br>
 
-# $\text{\color{red}{Projects}}$
+# 🛠️ __Projects__
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -115,16 +116,13 @@ public class AboutMe {
 </table>
 <br>
 
-# $\text{\color{red}{Connect\ with\ me}}$
+# ☎️ __Connect with me__
 <div align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jose-alberto-picasso-mtz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a style="margin-left: 10px;" target="_blank" href="mailto:japm996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/japm_5/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Dark_Spectre17">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
